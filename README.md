@@ -63,8 +63,8 @@ Mahasiswa Sistem Informasi yang tertarik pada bidang Data Analyst.
 Memiliki pengetahuan dasar SQL, Excel, dan analisis data.
 
 ## 📬 Kontak
-- Email: (isi email kamu)
-- GitHub: https://github.com/(username kamu)
+- Email: (rakhadimas.n.a@gmail.com)
+- GitHub: https://github.com/(rakdim03)
 
 ---
 ✨ Proyek ini merupakan bagian dari pengembangan portfolio Data Analyst.
